@@ -5,8 +5,6 @@
 
 ---
 sdf
-sdf
-sdf
 
 ## About the Project
 
